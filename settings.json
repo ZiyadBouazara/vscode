@@ -1,0 +1,67 @@
+{
+    "workbench.colorTheme": "GitHub Dark Dimmed",
+    "bracketPairColorizer.depreciation-notice": false,
+    "prettier.printWidth": 100,
+    "explorer.confirmDelete": false,
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "editor.inlineSuggest.enabled": true,
+    "editor.minimap.enabled": false,
+    "editor.codeActionsOnSave": {},
+    "prettier.tabWidth": 4,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "gitlens.views.contributors.showAllBranches": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.formatOnSave": true,
+    "editor.lineNumbers": "relative",
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["k", "j"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": ["<C-u>"],
+            "after": ["<C-u>", "z", "z"]
+        },
+        {
+            "before": ["<C-d>"],
+            "after": ["<C-d>", "z", "z"]
+        }
+    ],
+    "vim.vimrc.enable": true,
+    "vim.vimrc.path": "/Users/ziyadbouazara/.vimrc",
+    "vim.highlightedyank.enable": true,
+    "vim.highlightedyank.color": "rgba(250, 240, 170, 0.5)",
+    "vim.highlightedyank.duration": 200,
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "tailwindCSS.emmetCompletions": true,
+    "tailwindCSS.experimental.classRegex": [],
+    "tailwindCSS.includeLanguages": {
+        "javascript": "javascript",
+        "typescript": "typescript",
+        "html": "HTML"
+    },
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "python.pythonPath": "/path/to/your/venv/bin/python",
+    "editor.cursorStyle": "block",
+    "window.zoomLevel": 1,
+    "editor.minimap.side": "left",
+    "redhat.telemetry.enabled": false,
+    "files.autoSave": "onWindowChange",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "python.defaultInterpreterPath": "/opt/homebrew/bin/python3",
+    "claudeCode.preferredLocation": "panel"
+}
